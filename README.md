@@ -1,3 +1,3 @@
-<p>
-  НАЧАЛО ДЕМО_ПРОЕКТА
-</p>
+# Git and Github course
+
+Crash Course for git
